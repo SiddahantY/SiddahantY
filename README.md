@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on **Python and Data Analysis**.
 - 🌱 I’m currently learning **Web Development**, **Data Analytics** and **Machine Learning**
 - 🤔 I’m **refining my Django skills** and **exploring data and mathematical analysis**.
-- 💬 Ask me about **Python, Web Development, APIs,SQL, Excel and Maths**.
+- 💬 Ask me about **Python, Web Development, APIs, SQL, Excel and Maths**.
 - 📫 How to reach me: **[siddhantyadav750@gmail.com](mailto:your.email@example.com)**
 - ⚡ Fun fact: I love problem solving and learning through opportunities.
 
