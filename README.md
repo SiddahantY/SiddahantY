@@ -6,18 +6,18 @@
 ![GIF](https://media.giphy.com/media/0weNDO7xfTye4oqkUr/giphy.gif)
 ## 🌟 About Me
 
-- 🔭 I’m currently working on **Python projects**, including GUI applications using the `guizero` library.
-- 🌱 I’m currently learning **advanced web development**, **backend services** and **data analytics**
+- 🔭 I’m currently working on **Python and Data Analysis**.
+- 🌱 I’m currently learning **Web Development**, **Data Analytics** and **Machine Learning**
 - 🤔 I’m looking for help with **refining my Django skills** and exploring I **exploring data analytics tools**.
-- 💬 Ask me about **Python, Web Development, APIs, and SQL**.
+- 💬 Ask me about **Python, Web Development, APIs,SQL and Excel**.
 - 📫 How to reach me: **[siddhantyadav750@gmail.com](mailto:your.email@example.com)**
-- ⚡ Fun fact: I love solving complex coding challenges and contributing to community projects.
+- ⚡ Fun fact: I love problem solving and learning through opportunities.
 
 ## 🛠️ Skills
 
 - **Languages**: Python, JavaScript, HTML/CSS, C/C++, SQL 
 - **Frameworks**: Django
-- **Tools**: Git, GitHub, VSCode
+- **Tools**: Git, GitHub, MS Excel, SSMS, Power Bi
 - **Libraries**: guizero, pandas, numpy,matplotlib
 
 ## 🗂️ My Projects
@@ -28,6 +28,8 @@
 - **[Calculator App](https://github.com/SiddahantY/calculator-app)**: A simple calculator built with Python.
 - **[Password Generator](https://github.com/SiddahantY/password-generator)**: A secure password generator with customizable options.
 - **[CRUD API](https://github.com/SiddahantY/crud-api)**:A simple CRUD application using Djangorest Framework
+- **[Excel Dashboard](https://github.com/SiddahantY/Amazon-Sales-Dashboard)**: Amazon Sales Dashboard using MS Excel depicting sales and KPIs.
+- **[SQL Data Exploration](https://github.com/SiddahantY/Portfolio-project-SQL)**: Performing data exploration on covid dataset provided [ by who](https://ourworldindata.org/covid-deaths).
 
 ## 📊 GitHub Stats
 
